@@ -1,3 +1,3 @@
 You can visit my blog at this address: https://azlinux.fr/
 
-![Github Profile Stats](https://github-readme-stats.vercel.app/api?username=baptiste313&show_icons=true&lang=FR)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baptiste313&layout=compact&hide=css,scss,html,javascript&theme=draculalocalehttps://github-readme-stats.vercel.app/api/top-langs/?username=totoroot&layout=compact&hide=css,scss,html,javascript&theme=dracula&locale=fr" href="https://github.com/totoroot/github-readme-stats" height="167"> <img src="https://github-readme-stats.vercel.app/api?username=baptiste313&theme=dracula&count_private=true&show_icons=true&locale=es)](https://github.com/anuraghazra/github-readme-stats" height="167">
