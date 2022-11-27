@@ -4,11 +4,11 @@ You can visit my blog at this address: https://azlinux.fr/
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Have you seen this sexy button?](https://dev.to/rahuldkjain/have-you-seen-this-sexy-button-2ijn)
-- [How I improved my GitHub profile?](https://dev.to/rahuldkjain/how-i-improved-my-github-profile-480c)
-- [Awesome FrontendMasters course resources](https://dev.to/rahuldkjain/awesome-frontendmasters-course-resources-1gj2)
-- [How to start and promote your open-source project?](https://dev.to/rahuldkjain/how-to-start-and-promote-your-open-source-project-3ebp)
-- [How to gain 1000+ stars on an open-source project quickly?](https://dev.to/rahuldkjain/how-my-project-repo-reached-200-stars-in-less-than-36-hours-on-github-2l15)
+- [Deface un outil pour anonymiser les images et les vidéos par détection automatique des visages](https://azlinux.fr/deface/)
+- [fwupd un outil pour mettre à jour le firmware (BIOS et UEFI) de votre PC](https://azlinux.fr/fwupd-un-outil-pour-mettre-a-jour-le-firmware-de-votre-pc/)
+- [Télécharger avec ce script légalement de la musique en Haute Résolution (Hi-Res) sur Qobuz](https://azlinux.fr/telecharger-avec-ce-script-legalement-de-la-musique-en-haute-resolution-sur-qobuz/)
+- [DuckDuckGo ouvre à tous son service de protection contre le suivi des applications](https://azlinux.fr/duckduckgo-ouvre-a-tous-son-service-de-protection-contre-le-suivi-des-applications/)
+- [Régler la vitesse du ventilateur de votre Raspberry Pi](https://azlinux.fr/fancontrol/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=baptiste313&layout=compact&hide=css,scss,html,javascript&theme=dracula)
