@@ -13,3 +13,4 @@ jobs:
               with: 
                 max_post_count: "5"
                 feed_list: "https://azlinux.fr/index.xml"
+                user_agent: "Mozilla/5.0 (Android 10; Mobile; rv:102.0) Gecko/102.0 Firefox/102.0"
