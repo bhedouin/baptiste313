@@ -12,7 +12,7 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "5"
-                feed_list: "https://azlinux.fr/index.xml"
+                feed_list: "https://rssproxy.migor.org/api/w2f?v=0.1&url=https%3A%2F%2Fazlinux.fr&link=.%2Fheader%5B1%5D%2Fdiv%5B2%5D%2Fdiv%5B1%5D%2Fh2%5B1%5D%2Fa%5B1%5D&context=%2F%2Fdiv%5B1%5D%2Fmain%5B1%5D%2Fsection%5B1%5D%2Farticle&date=.%2Fheader%5B1%5D%2Fdiv%5B2%5D%2Ffooter%5B1%5D%2Fdiv%5B1%5D%2Ftime%5B1%5D&re=none&out=atom&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0eXBlIjoiYW5vbnltb3VzIiwiaWF0IjoxNjY5NTc3MzA0fQ.D8-w3LRFyS9iSnPjS-G8QSY1s3XUdurM-YMZQh3fdIs"
                 user_agent: "Mozilla/5.0 (Android 10; Mobile; rv:102.0) Gecko/102.0 Firefox/102.0"
                 accept_header: 'text/xml'
                 retry_count: 10
