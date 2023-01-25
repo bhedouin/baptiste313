@@ -4,7 +4,7 @@ You can visit my blog at this address: https://azlinux.fr/
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Tempy : Consulter la météo en temps réel depuis votre terminal](https://azlinux.fr/tempy/)
+- [Tempy: consulter la météo en temps réel depuis votre terminal](https://azlinux.fr/tempy/)
 - [OpenAIPipe: une interface UNIX pour ChatGPT](https://azlinux.fr/openaipipe/)
 - [Extraire un fichier ZIP divisé en plusieurs parties](https://azlinux.fr/extraire-un-fichier-zip-divise-en-plusieur-parties/)
 - [Comment utiliser Tesseract pour extraire du texte à partir d'images](https://azlinux.fr/tesseract/)
