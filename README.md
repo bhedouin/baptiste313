@@ -11,5 +11,5 @@ You can visit my blog at this address: https://azlinux.fr/
 - [Comment utiliser Tesseract pour extraire du texte à partir d'images](https://azlinux.fr/tesseract/)
 <!-- BLOG-POST-LIST:END -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=baptiste313&layout=compact&hide=css,scss,html,javascript&theme=dracula)
-![](https://github-readme-stats.vercel.app/api/?username=baptiste313&layout=compact&hide=css,scss,html,javascript&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhedouin&layout=compact&hide=css,scss,html,javascript&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/?username=bhedouin&layout=compact&hide=css,scss,html,javascript&theme=dracula)
